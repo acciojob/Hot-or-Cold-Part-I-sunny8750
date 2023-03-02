@@ -18,4 +18,4 @@ function print(){
 		document.getElementById("respond").innerHTML = "Hot";
 	}
 }
-Footer
+
