@@ -12,10 +12,10 @@ function guessName() {
 }
 function print(){
 	if(Math.abs(randomNum - input) <= 5){
-		document.getElementById("respond").innerHTML = "cold";
+		document.getElementById("response").innerHTML = "cold";
 	}
 	else{
-		document.getElementById("respond").innerHTML = "Hot";
+		document.getElementById("response").innerHTML = "Hot";
 	}
 }
 
